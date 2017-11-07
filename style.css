@@ -1,0 +1,79 @@
+body {
+    font-family: Century Gothic;
+    background-image: url(fone.jpg);
+    background-color: #4B0082;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #4B0082;
+}
+
+h1 {
+	color: #FFFFE0;
+	width: 50%;
+	margin: 20px auto;
+	font-size: 50px;
+}
+
+div, img {
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+
+}
+
+a {
+	text-decoration: none;
+	color: #4B0082;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #4B0082;
+}
+
+.all {
+	width: 90%;
+	height: 450px;
+	margin: 0px 470px;
+}
+
+.about {
+	float: left;
+	width: 30%;
+	height: auto;
+}
+
+.name {
+	width: 100%;
+}
+
+.introduction {
+	width: auto;
+	height: 100%;
+}
+
+.myphoto {
+	width: 30%;
+	float: center;
+}
+
+.experience {
+	width: 30px;
+	width: 30%;
+	height: auto;
+	margin: 20px 880px;
+
+}
+
+.contacts {
+	width: 30px;
+	width: 30%;
+	height: auto;
+	margin: 20px 885px;
+	border: 2px solid #FF8C00;
+}
+
+.big {
+	font-size: 14pt;
+	margin: 5px;
+}
